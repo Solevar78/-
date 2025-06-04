@@ -8,3 +8,4 @@ https://github.com/Blank-c/Umbral-Stealer/releases/tag/v1.3
 pool.hashvault.pro:80
 bc1q68n52mftckpuu3yge8tuqpk2803n608gwruw77
 --algo=cryptonight
+https://disk.yandex.ru/d/yYBPZAXcHiiRxw
